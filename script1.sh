@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello World (avicii)"
+echo "Hello World (avicii+oshri)"
